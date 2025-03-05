@@ -12,7 +12,7 @@ Welcome to my personal academic homepage. Here, I document my academic journey, 
 
 About Me
 ======
-I am currently a junior at Shenzhen University, majoring in Electronic Information Engineering in the top-notch innovation experimental class (also known as the Academician Class). My performance in the college entrance exam was benchmarked against Shandong University, reflecting my strong academic foundation. Alongside my studies, I work as an Assistant AI Algorithm Engineer at vivo, where I apply advanced AI techniques to real-world challenges.
+I am currently a junior at Shenzhen University, majoring in Electronic Information Engineering in the top-tier innovation experimental class (also known as the Academician Class). The admission scores for this class are benchmarked against those of Shandong University, reflecting its high academic standards. Alongside my studies, I work as an Assistant AI Algorithm Engineer at vivo, where I apply advanced AI techniques to real-world challenges.
 
 Education
 ======
@@ -31,11 +31,14 @@ Project Experience
   Explored the application of metaverse concepts in education, entertainment, and other fields, bridging the gap between virtual and real-world interactions.
 
 - **Multimodal Forensic Large Model**  
-  Developed a comprehensive model that integrates multimodal data (text, images, audio, etc.) for forensic analysis, enhancing the efficiency and accuracy of data interpretation.
+  Led the end-to-end design and development of multimodal datasets, integrating diverse data sources to build a high-quality training and testing data pool for tamper detection tasks.
+  Designed a comprehensive model evaluation framework to systematically validate the performance of large models in the field of tamper detection, ensuring robustness and generalizability across complex scenarios.
 
 - **Digital Human Reconstruction**  
-  Utilized AI technology to digitally reconstruct human figures, pushing the boundaries of virtual and augmented reality by creating more lifelike digital representations.
-
+  Conducted in-depth technical research in the field of digital human reconstruction, comparing traditional 3D scanning methods, monocular camera-based deep learning approaches (e.g., NeRF, 3DMM), and dynamic expression-driven techniques to establish a lightweight and high-precision reconstruction pipeline.
+  Independently implemented an end-to-end facial reconstruction algorithm: leveraging monocular video input, the algorithm generates high-fidelity 3D facial models through keypoint detection and 3D Morphable Model (3DMM) techniques.
+  
+Additionally, I have completed numerous course projects, including designing and soldering an electronic pulse monitor, developing a spam email detection system, and building a garbage classification model, which have provided me with a solid foundation in these areas.
 
 Personal Vision and Future Aspirations
 ------
